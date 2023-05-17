@@ -516,30 +516,20 @@ img{
 }
 
 .skills__css{
-    width: 85%;
+    width: 90%;
 }
 
 .skills__js{
-    width: 60%;
+    width: 87%;
 }
 
-.skills__react{
-    width: 60%;
+.skills__firebase{
+    width: 80%;
 }
 
 .skills__git{
-    width: 75%;
+    width: 90%;
 }
-
-
-.skills__java{
-    width: 70%;
-}
-
-.skills__mysql{
-    width: 85%;
-}
-
 
 .skills__figma{
     width: 80%;
